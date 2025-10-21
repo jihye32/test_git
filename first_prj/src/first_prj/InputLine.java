@@ -126,6 +126,10 @@ public class InputLine extends JFrame{
 	public JLabel getJlblLineResult() {
 		return jlblLineResult;
 	}//getJlblLineResult
+	
+	public static void main(String[] args) {
+		
+	}
 
 }//class
 
